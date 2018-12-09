@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51586" started-at="2018-12-09T20:56:31Z" finished-at="2018-12-09T20:57:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51586" started-at="2018-12-09T20:56:31Z" finished-at="2018-12-09T20:57:23Z">
+      <class name="com.cybertek.ExcelTaskTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.cybertek.ExcelTaskTest@4009e306]" name="before" is-config="true" duration-ms="14984" started-at="2018-12-09T20:56:31Z" finished-at="2018-12-09T20:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:1, instance:com.cybertek.ExcelTaskTest@4009e306]" name="testCase" duration-ms="6786" started-at="2018-12-09T20:56:46Z" data-provider="dataP" finished-at="2018-12-09T20:56:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:1, instance:com.cybertek.ExcelTaskTest@4009e306]" name="testCase" duration-ms="4911" started-at="2018-12-09T20:56:53Z" data-provider="dataP" finished-at="2018-12-09T20:56:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JavaScript]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:1, instance:com.cybertek.ExcelTaskTest@4009e306]" name="testCase" duration-ms="4053" started-at="2018-12-09T20:56:58Z" data-provider="dataP" finished-at="2018-12-09T20:57:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ruby]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:1, instance:com.cybertek.ExcelTaskTest@4009e306]" name="testCase" duration-ms="6174" started-at="2018-12-09T20:57:02Z" data-provider="dataP" finished-at="2018-12-09T20:57:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VBScript]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="testCase(java.lang.String)[pri:1, instance:com.cybertek.ExcelTaskTest@4009e306]" name="testCase" duration-ms="3985" started-at="2018-12-09T20:57:08Z" data-provider="dataP" finished-at="2018-12-09T20:57:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="settingData()[pri:2, instance:com.cybertek.ExcelTaskTest@4009e306]" name="settingData" duration-ms="10243" started-at="2018-12-09T20:57:12Z" finished-at="2018-12-09T20:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingData -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.cybertek.ExcelTaskTest@4009e306]" name="after" is-config="true" duration-ms="417" started-at="2018-12-09T20:57:23Z" finished-at="2018-12-09T20:57:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.cybertek.ExcelTaskTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
